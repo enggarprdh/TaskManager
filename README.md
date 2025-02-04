@@ -32,7 +32,7 @@ The ETA project is a task management application built using .NET Framework 4.8 
 - **Delete Task**: Select a task from the list and click the "Delete" button to remove it.
 ![image](https://github.com/user-attachments/assets/13da721b-d3c4-4483-b663-cba6bd2c8d0f)
 
-- **Load Tasks**: Click the "Load" button to load tasks from a JSON file.
+- **Load Tasks**: Click the "Load" button to load tasks from a JSON file. In this repository you will find template.json. Use this file to load or you can rename the name(but make sure the file still has extension .json)
 ![image](https://github.com/user-attachments/assets/03fd453d-5d1a-4607-9345-1f9574f8767e)
 
 
