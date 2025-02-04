@@ -1,0 +1,14 @@
+C:\Works\Tesst\ETA\ETA\bin\Debug\ETA.exe.config
+C:\Works\Tesst\ETA\ETA\bin\Debug\ETA.exe
+C:\Works\Tesst\ETA\ETA\bin\Debug\ETA.pdb
+C:\Works\Tesst\ETA\ETA\obj\Debug\ETA.csproj.AssemblyReference.cache
+C:\Works\Tesst\ETA\ETA\obj\Debug\ETA.frmMain.resources
+C:\Works\Tesst\ETA\ETA\obj\Debug\ETA.Properties.Resources.resources
+C:\Works\Tesst\ETA\ETA\obj\Debug\ETA.csproj.GenerateResource.cache
+C:\Works\Tesst\ETA\ETA\obj\Debug\ETA.csproj.CoreCompileInputs.cache
+C:\Works\Tesst\ETA\ETA\obj\Debug\ETA.exe
+C:\Works\Tesst\ETA\ETA\obj\Debug\ETA.pdb
+C:\Works\Tesst\ETA\ETA\obj\Debug\ETA.frmModal.resources
+C:\Works\Tesst\ETA\ETA\bin\Debug\Newtonsoft.Json.dll
+C:\Works\Tesst\ETA\ETA\bin\Debug\Newtonsoft.Json.xml
+C:\Works\Tesst\ETA\ETA\obj\Debug\ETA.csproj.Up2Date
