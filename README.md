@@ -45,7 +45,7 @@ The ETA project is a task management application built using .NET Framework 4.8 
 ## License
 This project is licensed under the MIT License.
 
-## Authors
-- **enggarprdh** - Initial work
 
+## Authors
+- [enggarprdh](https://github.com/enggarprdh) - Initial work
 
