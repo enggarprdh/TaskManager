@@ -23,9 +23,18 @@ The ETA project is a task management application built using .NET Framework 4.8 
 
 ## Usage
 - **Add Task**: Click the "Add Task" button to open the modal form and add a new task.
-- **Update Task**: Select a task from the list and update its status or details.
+  ![image](https://github.com/user-attachments/assets/597f5f5d-3afc-4b36-8efb-36b184876cd3)
+
+- **Mark as Completed Task**: Select a task from the list and update its status when the status is not completed.
+![image](https://github.com/user-attachments/assets/4da43078-fd8d-49b7-beeb-5ed11d8b3732)
+![image](https://github.com/user-attachments/assets/345a54a1-2c7f-4acc-9862-8faf5d4b1ab6)
+
 - **Delete Task**: Select a task from the list and click the "Delete" button to remove it.
+![image](https://github.com/user-attachments/assets/13da721b-d3c4-4483-b663-cba6bd2c8d0f)
+
 - **Load Tasks**: Click the "Load" button to load tasks from a JSON file.
+![image](https://github.com/user-attachments/assets/03fd453d-5d1a-4607-9345-1f9574f8767e)
+
 
 ## Dependencies
 - **Newtonsoft.Json**: Used for JSON serialization and deserialization.
